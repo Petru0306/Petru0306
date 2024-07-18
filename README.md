@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Petru0306
-- 👀 I’m interested in computer science
+- 👀 I’m interested in computer science/softwere develepment
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me email --> petru.panait77@gmail.com
